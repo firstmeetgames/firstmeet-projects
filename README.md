@@ -4,10 +4,10 @@ firstmeet project modules(git submodule)
 ## 0. 克隆主项目 
 ```
 克隆主项目 
-$ https://github.com/firstmeetgames/firstmeet-projects.git
+$ git clone   https://github.com/firstmeetgames/firstmeet-projects.git
 
 递归克隆整个项目
-$ git clone https://github.com/maonx/firstmeet-projects.git --recursive 
+$ git clone --recursive  https://github.com/firstmeetgames/firstmeet-projects.git
 
 $ cd firstmeet-projects
 ```
