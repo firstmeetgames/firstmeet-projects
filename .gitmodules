@@ -1,0 +1,33 @@
+[submodule "firstmeetgames/mservice-grpc-apis"]
+	path = firstmeetgames/mservice-grpc-apis
+	url = https://github.com/firstmeetgames/mservice-grpc-apis.git
+[submodule "ups/firstmeet-mservice-mta-track"]
+	path = ups/firstmeet-mservice-mta-track
+	url = https://devops.16801.com/bitbucket/scm/ups/firstmeet-mservice-mta-track.git
+[submodule "ups/firstmeet-mservice-paycenter"]
+	path = ups/firstmeet-mservice-paycenter
+	url = https://devops.16801.com/bitbucket/scm/ups/firstmeet-mservice-paycenter.git
+[submodule "ups/firstmeet-mservice-paycenter-000chujian"]
+	path = ups/firstmeet-mservice-paycenter-000chujian
+	url = https://devops.16801.com/bitbucket/scm/ups/firstmeet-mservice-paycenter-000chujian.git
+[submodule "ups/firstmeet-mservice-shippingcenter"]
+	path = ups/firstmeet-mservice-shippingcenter
+	url = https://devops.16801.com/bitbucket/scm/ups/firstmeet-mservice-shippingcenter.git
+[submodule "ups/firstmeet-mservice-shoppecenter"]
+	path = ups/firstmeet-mservice-shoppecenter
+	url = https://devops.16801.com/bitbucket/scm/ups/firstmeet-mservice-shoppecenter.git
+[submodule "ups/firstmeet-mservice-usercenter"]
+	path = ups/firstmeet-mservice-usercenter
+	url = https://devops.16801.com/bitbucket/scm/ups/firstmeet-mservice-usercenter.git
+[submodule "ups/firstmeet-mservice-usercenter-000chujian"]
+	path = ups/firstmeet-mservice-usercenter-000chujian
+	url = https://devops.16801.com/bitbucket/scm/ups/firstmeet-mservice-usercenter-000chujian.git
+[submodule "ups/firstmeet-ups-configserver"]
+	path = ups/firstmeet-ups-configserver
+	url = https://devops.16801.com/bitbucket/scm/ups/firstmeet-ups-configserver.git
+[submodule "ups/firstmeet-ups-mservice-webhooks"]
+	path = ups/firstmeet-ups-mservice-webhooks
+	url = https://devops.16801.com/bitbucket/scm/ups/firstmeet-ups-mservice-webhooks.git
+[submodule "ups/firstmeet-web-pay-bluepay"]
+	path = ups/firstmeet-web-pay-bluepay
+	url = https://devops.16801.com/bitbucket/scm/ups/firstmeet-web-pay-bluepay.git
