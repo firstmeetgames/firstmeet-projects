@@ -31,3 +31,6 @@
 [submodule "ups/firstmeet-web-pay-bluepay"]
 	path = ups/firstmeet-web-pay-bluepay
 	url = https://devops.16801.com/bitbucket/scm/ups/firstmeet-web-pay-bluepay.git
+[submodule "README.mdrcup/firstmeet-rcup-app-android"]
+	path = README.mdrcup/firstmeet-rcup-app-android
+	url = https://devops.16801.com/bitbucket/scm/rcup/firstmeet-rcup-app-android.git
